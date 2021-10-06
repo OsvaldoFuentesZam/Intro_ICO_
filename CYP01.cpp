@@ -23,8 +23,22 @@ int main(void)
     scanf_s("%f", &porcentajeAncho);
     scanf_s("%f", &porcentajeAlto);
   
-
-
+    /*Un comentario desde Github*/ 
+    
+    
+    
+    /*zzzzzzzzzzz
+              zz
+             zz
+            zz
+           zz
+          zz        
+         zz             zz
+        zz             zz
+       zz             zz
+      zz             zz
+     zz             zz
+    zzzzzzzzzzzz   z*/             
     coordenadasx1 = porcentajex * Ancho;
     coordenadasy1 = porcentajey * Alto;
     coordenadasx2 = Ancho * porcentajeAncho + coordenadasx1;
