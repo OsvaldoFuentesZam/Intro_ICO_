@@ -33,7 +33,7 @@ int main(void)
             zz
            zz
           zz        
-         zz             zz
+         zzz             zz
         zz             zz
        zz             zz
       zz             zz
